@@ -52,7 +52,7 @@ Follow these steps to set up and run the project:
 
 - Clone the repository using Git:
   ```bash
-  git clone https://github.com/francis-njenga/Face-Recognition-Attendance-System.git
+  [git clone https://github.com/gabrielub/Attendance_Face-recog.git
   ```
   -Download zip file
 
@@ -76,7 +76,7 @@ Use a simple folder name, as it will be part of the URL (e.g., attendance-system
 - Visit **phpMyAdmin**.
 - Create a new database.
 
-  - Recommended name: `attendance_db` (You can choose any name, but ensure it matches the configuration in your project files).
+  - Recommended name: `attendance-db` (You can choose any name, but ensure it matches the configuration in your project files).
 
 - Import the SQL file:
 - Locate the `attendance-db.sql` file in the `database/` folder of the project.
@@ -139,3 +139,4 @@ For any issues or inquiries, feel free to reach out via email: [Francis Njenga](
 https://www.frankcodes.tech
 
 You can send donations to my PayPal account: rajeynjenga@gmail.com
+
